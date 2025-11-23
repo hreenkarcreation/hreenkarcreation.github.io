@@ -1,78 +1,436 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/t&c.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/index.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/dixcyscott.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/dixcyslimz.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/dixcyjosh.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/enamor.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/levis.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/luxcozi.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/luxvenus.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/luxparker.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/luxpynk.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/one8.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/oneleph.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
-<url>
-<loc>https://hemantborana.github.io/hreenkarcreation/skyknit.html</loc>
-<lastmod>2025-10-14T14:10:00+00:00</lastmod>
-<priority>0.70</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:mobile="http://www.mobile.googlebot.org/"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+    <!-- HOME PAGE -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/HC_LOGO.webp</image:loc>
+            <image:title>Hreenkar Creation & Kambeshwar Agencies Logo</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/shop_view.webp</image:loc>
+            <image:title>Hreenkar Creation Distribution Center</image:title>
+        </image:image>
+    </url>
+
+    <!-- BRAND PAGES -->
+    <!-- Dixcy Scott Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/dixcyscott.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/ds.webp</image:loc>
+            <image:title>Dixcy Scott Premium Innerwear Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Dixcy Slimz Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/dixcyslimz.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/dsl.webp</image:loc>
+            <image:title>Dixcy Slimz Women's Innerwear Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Dixcy Josh Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/dixcyjosh.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/dj.webp</image:loc>
+            <image:title>Dixcy Josh Youth Innerwear Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Enamor Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/enamor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/en.webp</image:loc>
+            <image:title>Enamor Premium Women's Lingerie Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Levi's Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/levis.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/l.webp</image:loc>
+            <image:title>Levi's Iconic Innerwear Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Lux Cozi Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/luxcozi.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/lc.webp</image:loc>
+            <image:title>Lux Cozi Affordable Innerwear Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Lux Venus Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/luxvenus.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/lv.webp</image:loc>
+            <image:title>Lux Venus Men's Innerwear Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Lux Parker Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/luxparker.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/lp.webp</image:loc>
+            <image:title>Lux Parker Premium Men's Innerwear Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Lux Pynk Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/luxpynk.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/lph.webp</image:loc>
+            <image:title>Lux Pynk Women's Apparel Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- One8 Select Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/one8.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.95</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/o8.webp</image:loc>
+            <image:title>One8 Select by Virat Kohli Celebrity Brand Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Oneeleph Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/oneleph.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/oe.webp</image:loc>
+            <image:title>Oneeleph Modern Innerwear Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- Skyknit Brand Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/skyknit.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <image:image>
+            <image:loc>https://hemantborana.github.io/hreenkarcreation/assets/sk.webp</image:loc>
+            <image:title>Skyknit Casualwear Distributor</image:title>
+        </image:image>
+    </url>
+
+    <!-- LOCATION-SPECIFIC PAGES -->
+    <!-- North Goa Distributor Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/north-goa-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- South Goa Distributor Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/south-goa-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Mapusa Distributor Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/mapusa-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Panaji Distributor Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/panaji-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Margao Distributor Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/margao-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Vasco Distributor Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/vasco-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- SERVICE-SPECIFIC PAGES -->
+    <!-- Wholesale Distribution Services -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/wholesale-distribution.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Retail Distribution Services -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/retail-distribution.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Bulk Distributor Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/bulk-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- INFORMATIONAL PAGES -->
+    <!-- About Us -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/about-us.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Contact Us -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/contact-us.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Terms & Conditions -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/t&c.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Privacy Policy -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/privacy-policy.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Return Policy -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/return-policy.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- PRODUCT CATEGORY PAGES -->
+    <!-- Innerwear Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/innerwear-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Men's Innerwear Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/mens-innerwear-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Women's Innerwear Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/womens-innerwear-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Kids Innerwear Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/kids-innerwear-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Apparel Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/apparel-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Casual Wear Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/casual-wear-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Athleisure & Activewear Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/athleisure-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Lingerie & Shapewear Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/lingerie-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- T-Shirt Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/tshirt-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.8</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Trackpants & Bottomwear Distributor -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/trackpants-distributor.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>bi-weekly</changefreq>
+        <priority>0.8</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- RESOURCE & BLOG PAGES (If you have these) -->
+    <!-- Blog/Resources Hub -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/blog.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.75</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- FAQ Page -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/faq.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- PARTNERSHIP & BUSINESS PAGES -->
+    <!-- Become a Retail Partner -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/become-partner.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+        <mobile:mobile/>
+    </url>
+
+    <!-- Brand Partnership Program -->
+    <url>
+        <loc>https://hemantborana.github.io/hreenkarcreation/brand-partnership.html</loc>
+        <lastmod>2025-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <mobile:mobile/>
+    </url>
+
 </urlset>
