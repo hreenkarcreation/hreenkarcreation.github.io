@@ -13,7 +13,7 @@
         <mobile:mobile/>
         <image:image>
             <image:loc>https://hreenkarcreation.github.io/hreenkarcreation/assets/HC_LOGO.webp</image:loc>
-            <image:title>Hreenkar Creation & Kambeshwar Agencies Logo</image:title>
+            <image:title>Hreenkar Creation &amp; Kambeshwar Agencies Logo</image:title>
         </image:image>
         <image:image>
             <image:loc>https://hreenkarcreation.github.io/hreenkarcreation/assets/shop_view.webp</image:loc>
@@ -280,7 +280,7 @@
         <mobile:mobile/>
     </url>
 
-    <!-- Terms & Conditions -->
+    <!-- Terms &amp; Conditions -->
     <url>
         <loc>https://hreenkarcreation.github.io/hreenkarcreation/t-c.html</loc>
         <lastmod>2025-01-15</lastmod>
@@ -359,7 +359,7 @@
         <mobile:mobile/>
     </url>
 
-    <!-- Athleisure & Activewear Distributor -->
+    <!-- Athleisure &amp; Activewear Distributor -->
     <url>
         <loc>https://hreenkarcreation.github.io/hreenkarcreation/athleisure-distributor.html</loc>
         <lastmod>2025-01-15</lastmod>
@@ -368,7 +368,7 @@
         <mobile:mobile/>
     </url>
 
-    <!-- Lingerie & Shapewear Distributor -->
+    <!-- Lingerie &amp; Shapewear Distributor -->
     <url>
         <loc>https://hreenkarcreation.github.io/hreenkarcreation/lingerie-distributor.html</loc>
         <lastmod>2025-01-15</lastmod>
@@ -386,7 +386,7 @@
         <mobile:mobile/>
     </url>
 
-    <!-- Trackpants & Bottomwear Distributor -->
+    <!-- Trackpants &amp; Bottomwear Distributor -->
     <url>
         <loc>https://hreenkarcreation.github.io/hreenkarcreation/trackpants-distributor.html</loc>
         <lastmod>2025-01-15</lastmod>
@@ -395,7 +395,7 @@
         <mobile:mobile/>
     </url>
 
-    <!-- RESOURCE & BLOG PAGES -->
+    <!-- RESOURCE &amp; BLOG PAGES -->
     <!-- Blog/Resources Hub -->
     <url>
         <loc>https://hreenkarcreation.github.io/hreenkarcreation/blog.html</loc>
@@ -414,7 +414,7 @@
         <mobile:mobile/>
     </url>
 
-    <!-- PARTNERSHIP & BUSINESS PAGES -->
+    <!-- PARTNERSHIP &amp; BUSINESS PAGES -->
     <!-- Become a Retail Partner -->
     <url>
         <loc>https://hreenkarcreation.github.io/hreenkarcreation/become-partner.html</loc>
