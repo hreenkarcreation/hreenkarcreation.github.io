@@ -46,11 +46,123 @@
     
     <!-- Premium CSS for Enamor -->
     <style>
+        /* Global Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Montserrat', sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+        
+        .section-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        .btn-primary, .btn-secondary {
+            display: inline-block;
+            padding: 12px 25px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-align: center;
+        }
+        
+        .btn-primary {
+            background: #9c27b0;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #7b1fa2;
+        }
+        
+        .btn-secondary {
+            background: transparent;
+            color: white;
+            border: 2px solid white;
+        }
+        
+        .btn-secondary:hover {
+            background: white;
+            color: #9c27b0;
+        }
+        
+        /* Header Styles */
+        .site-header {
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+        
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .logo-section {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .company-logo {
+            height: 60px;
+            width: auto;
+        }
+        
+        .company-names h2 {
+            font-size: 1.2rem;
+            margin: 0;
+        }
+        
+        .company-name-primary {
+            color: #9c27b0;
+            font-weight: 700;
+        }
+        
+        .company-name-secondary {
+            color: #333;
+            font-weight: 600;
+            font-size: 1rem;
+        }
+        
+        .nav-menu {
+            display: flex;
+            list-style: none;
+            gap: 25px;
+        }
+        
+        .nav-link {
+            text-decoration: none;
+            color: #333;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        
+        .nav-link:hover {
+            color: #9c27b0;
+        }
+
         /* Premium Brand Section Styles */
         .brand-hero-section {
             background: linear-gradient(135deg, #9c27b0 0%, #7b1fa2 50%, #6a1b9a 100%);
             color: white;
-            padding: 120px 0 80px;
+            padding: 150px 0 80px;
             text-align: center;
             position: relative;
             overflow: hidden;
@@ -262,6 +374,13 @@
             border-radius: 10px;
             box-shadow: 0 10px 25px rgba(0,0,0,0.1);
             transition: transform 0.3s ease;
+            background: #f5f5f5;
+            height: 250px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #888;
+            font-style: italic;
         }
 
         .showcase-image:hover {
@@ -559,6 +678,87 @@
             box-shadow: 0 8px 20px rgba(37, 211, 102, 0.4);
         }
 
+        /* Footer Styles */
+        .site-footer {
+            background: #333;
+            color: white;
+            padding: 40px 0 20px;
+        }
+
+        .footer-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .footer-bottom {
+            border-top: 1px solid rgba(255,255,255,0.1);
+            padding-top: 20px;
+        }
+
+        .footer-bottom-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .copyright-text {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .footer-legal-links {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .legal-link {
+            color: white;
+            text-decoration: none;
+            font-size: 0.9rem;
+            opacity: 0.8;
+            transition: opacity 0.3s;
+        }
+
+        .legal-link:hover {
+            opacity: 1;
+        }
+
+        .separator {
+            opacity: 0.5;
+        }
+
+        /* Sticky Button Styles */
+        .sticky-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 99999;
+            background: #9c27b0;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+            text-transform: uppercase;
+            box-shadow: 2px 4px 7px rgba(0,0,0,0.2);
+            transition: all ease-in-out 300ms;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .sticky-button:hover {
+            background: #7b1fa2;
+            box-shadow: 2px 4px 7px rgba(0,0,0,0.4);
+            transform: translateY(-2px);
+        }
+
         /* Responsive Design */
         @media (max-width: 1024px) {
             .brand-info-grid {
@@ -606,6 +806,23 @@
                 flex-direction: column;
                 align-items: center;
             }
+            
+            .footer-bottom-content {
+                flex-direction: column;
+                gap: 15px;
+                text-align: center;
+            }
+            
+            .nav-menu {
+                display: none;
+            }
+            
+            .sticky-button {
+                bottom: 10px;
+                right: 10px;
+                font-size: 12px;
+                padding: 10px 16px;
+            }
         }
 
         @media (max-width: 480px) {
@@ -628,6 +845,18 @@
             
             .location-tags {
                 justify-content: center;
+            }
+            
+            .sticky-button {
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                justify-content: center;
+                font-size: 0;
+            }
+            
+            .sticky-button i {
+                margin: 0;
             }
         }
     </style>
@@ -737,10 +966,10 @@
                 </div>
                 
                 <div class="brand-image-sidebar">
-                    <div class="product-showcase">
-                        <img src="data:image/jpeg;base64,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" alt="Enamor Luxury Lingerie Collection" class="showcase-image">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vxB8NkKPc0SBFLMGtpohx1itJU1tXNI9ew&s" alt="Enamor Premium Shapewear" class="showcase-image">
-                    </div>
+                <div class="product-showcase">
+                <img src="data:image/jpeg;base64,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" alt="Enamor Luxury Lingerie Collection" class="showcase-image">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vxB8NkKPc0SBFLMGtpohx1itJU1tXNI9ew&s" alt="Enamor Premium Shapewear" class="showcase-image">
+            </div>
                 </div>
             </div>
         </div>
@@ -974,6 +1203,12 @@
             </div>
         </div>
     </footer>
+
+    <!-- Sticky Action Button -->
+    <a href="index.html#contact" class="sticky-button">
+        <i class="fas fa-crown"></i>
+        <span>Become Partner</span>
+    </a>
 
 </body>
 </html>
